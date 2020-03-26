@@ -1,0 +1,16 @@
+{
+"companyName": "Alexandra & Hao",
+"productName": "Prototype03",
+"productVersion": "0.1",
+"dataUrl": "proto3_webGL.data.unityweb",
+"wasmCodeUrl": "proto3_webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "proto3_webGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.18f1"
+}
